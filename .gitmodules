@@ -38,3 +38,6 @@
 [submodule "lib/urllib3"]
 	path = lib/urllib3
 	url = https://github.com/lsimons/urllib3
+[submodule "lib/djangoappengine"]
+	path = lib/djangoappengine
+	url = https://github.com/lsimons/djangoappengine
