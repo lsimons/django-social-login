@@ -1,0 +1,40 @@
+[submodule "lib/django-autoload"]
+	path = lib/django-autoload
+	url = https://github.com/lsimons/django-autoload
+[submodule "lib/django-dbindexer"]
+	path = lib/django-dbindexer
+	url = https://github.com/lsimons/django-dbindexer
+[submodule "lib/django-nonrel"]
+	path = lib/django-nonrel
+	url = https://github.com/lsimons/django-nonrel
+	branch = nonrel-1.6
+[submodule "lib/djangotoolbox"]
+	path = lib/djangotoolbox
+	url = https://github.com/lsimons/djangotoolbox
+[submodule "lib/oauth2"]
+	path = lib/oauth2
+	url = https://github.com/lsimons/python-oauth2
+[submodule "lib/oauthlib"]
+	path = lib/oauthlib
+	url = https://github.com/lsimons/oauthlib
+[submodule "lib/permission-backend-nonrel"]
+	path = lib/permission-backend-nonrel
+	url = https://github.com/lsimons/django-permission-backend-nonrel
+[submodule "lib/python-openid"]
+	path = lib/python-openid
+	url = https://github.com/lsimons/python-openid
+[submodule "lib/python-social-auth"]
+	path = lib/python-social-auth
+	url = https://github.com/lsimons/python-social-auth
+[submodule "lib/requests"]
+	path = lib/requests
+	url = https://github.com/lsimons/requests
+[submodule "lib/requests-oauthlib"]
+	path = lib/requests-oauthlib
+	url = https://github.com/lsimons/requests-oauthlib
+[submodule "lib/six"]
+	path = lib/six
+	url = https://github.com/lsimons/six
+[submodule "lib/urllib3"]
+	path = lib/urllib3
+	url = https://github.com/lsimons/urllib3
